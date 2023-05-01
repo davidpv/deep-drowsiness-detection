@@ -7,5 +7,5 @@ yolov5/
 ./labelImg/
 
 data/images/
-
+data/ddd
 data/labels/
