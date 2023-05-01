@@ -2,3 +2,10 @@
 .idea/
 yolov5/
 ./data/ddd/
+./data/images/
+./data/labels/
+./labelImg/
+
+data/images/
+
+data/labels/
